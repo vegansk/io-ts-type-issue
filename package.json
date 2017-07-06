@@ -1,0 +1,18 @@
+{
+  "name": "typechecker_issue",
+  "version": "1.0.0",
+  "description": "io-ts types issue",
+  "main": "./bin/index.js",
+  "scripts": {
+    "start": "tsc && node ./bin/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anatoly Galiulin <galiulin.anatoly@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "2.3.4"
+  },
+  "dependencies": {
+    "io-ts": "^0.5.0"
+  }
+}
