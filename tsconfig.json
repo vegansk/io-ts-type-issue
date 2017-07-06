@@ -4,7 +4,6 @@
     "module": "commonjs",
     "sourceMap": true,
     "outDir": "./bin",
-    "noErrorTruncation": true,
     "alwaysStrict": true,
 
     "moduleResolution": "node"
