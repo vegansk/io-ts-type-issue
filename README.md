@@ -5,5 +5,6 @@ To run this example, do the following:
 
 ```
 npm install
-npm start
+npm run build
 ```
+
